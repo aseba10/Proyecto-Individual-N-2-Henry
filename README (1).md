@@ -41,6 +41,9 @@ SANTIAGO DEL ESTERO, SAN JUAN, CORRIENTES Y ENTRE RIOS son las provincias con ba
 
 Se puede apreciar que en estas provincias aún no ha comenzado el crecimiento del desarrollo de Fibra Óptica que experimentaron las demás provincias viendo una oportunidad de crecimiento en este aspecto.
 
+[`Presentación`](https://docs.google.com/presentation/d/1v9G2MfzGC7WmA_VVxSsMLamqF0KpzNoVLgI7JcAMgiE/edit?usp=sharing):
+
+
 
 
 ## Fuente de datos
