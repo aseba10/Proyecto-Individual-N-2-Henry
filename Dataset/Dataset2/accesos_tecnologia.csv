@@ -1,0 +1,121 @@
+Provincia,Tecnología,Accesos a Internet,Total Accesos
+Buenos Aires,Otros,70416,4721668
+Capital Federal,Otros,31787,1547679
+Catamarca,Otros,2235,70293
+Chaco,Otros,2359,144146
+Chubut,Otros,8831,165778
+Córdoba Arg,Otros,9797,1038668
+Corrientes,Otros,5323,144846
+Entre Ríos,Otros,12593,268959
+Formosa Arg,Otros,212,68538
+Jujuy,Otros,2383,118823
+La Pampa,Otros,4451,116092
+La Rioja Arg,Otros,31,86864
+Mendoza,Otros,2766,289523
+Misiones,Otros,7622,182157
+Neuquén,Otros,1116,163161
+Río Negro,Otros,18969,160558
+Salta,Otros,7215,204541
+San Juan,Otros,7918,103399
+San Luis,Otros,14985,122070
+Santa Cruz Arg,Otros,582,49510
+Santa Fe,Otros,19547,887810
+Santiago Del Estero,Otros,2922,119032
+Tierra Del Fuego,Otros,651,53896
+Tucumán,Otros,519,263117
+Buenos Aires,ADSL,339648,4721668
+Capital Federal,ADSL,140791,1547679
+Catamarca,ADSL,10010,70293
+Chaco,ADSL,27164,144146
+Chubut,ADSL,45377,165778
+Córdoba Arg,ADSL,163770,1038668
+Corrientes,ADSL,36508,144846
+Entre Ríos,ADSL,60345,268959
+Formosa Arg,ADSL,14470,68538
+Jujuy,ADSL,19257,118823
+La Pampa,ADSL,7796,116092
+La Rioja Arg,ADSL,6842,86864
+Mendoza,ADSL,37659,289523
+Misiones,ADSL,35513,182157
+Neuquén,ADSL,29352,163161
+Río Negro,ADSL,35552,160558
+Salta,ADSL,40006,204541
+San Juan,ADSL,38570,103399
+San Luis,ADSL,6860,122070
+Santa Cruz Arg,ADSL,10170,49510
+Santa Fe,ADSL,183740,887810
+Santiago Del Estero,ADSL,15385,119032
+Tierra Del Fuego,ADSL,12754,53896
+Tucumán,ADSL,77738,263117
+Buenos Aires,Cablemodem,2748325,4721668
+Capital Federal,Cablemodem,1240125,1547679
+Catamarca,Cablemodem,10495,70293
+Chaco,Cablemodem,61800,144146
+Chubut,Cablemodem,72212,165778
+Córdoba Arg,Cablemodem,465461,1038668
+Corrientes,Cablemodem,77140,144846
+Entre Ríos,Cablemodem,132952,268959
+Formosa Arg,Cablemodem,25880,68538
+Jujuy,Cablemodem,52978,118823
+La Pampa,Cablemodem,60078,116092
+La Rioja Arg,Cablemodem,53899,86864
+Mendoza,Cablemodem,78858,289523
+Misiones,Cablemodem,88902,182157
+Neuquén,Cablemodem,75815,163161
+Río Negro,Cablemodem,48260,160558
+Salta,Cablemodem,96984,204541
+San Juan,Cablemodem,22723,103399
+San Luis,Cablemodem,29363,122070
+Santa Cruz Arg,Cablemodem,24047,49510
+Santa Fe,Cablemodem,426255,887810
+Santiago Del Estero,Cablemodem,80937,119032
+Tierra Del Fuego,Cablemodem,39963,53896
+Tucumán,Cablemodem,18518,263117
+Buenos Aires,Fibra óptica,1436433,4721668
+Capital Federal,Fibra óptica,129218,1547679
+Catamarca,Fibra óptica,46224,70293
+Chaco,Fibra óptica,44645,144146
+Chubut,Fibra óptica,9574,165778
+Córdoba Arg,Fibra óptica,338570,1038668
+Corrientes,Fibra óptica,18619,144846
+Entre Ríos,Fibra óptica,36971,268959
+Formosa Arg,Fibra óptica,11041,68538
+Jujuy,Fibra óptica,40172,118823
+La Pampa,Fibra óptica,23551,116092
+La Rioja Arg,Fibra óptica,19697,86864
+Mendoza,Fibra óptica,142615,289523
+Misiones,Fibra óptica,39046,182157
+Neuquén,Fibra óptica,29396,163161
+Río Negro,Fibra óptica,41017,160558
+Salta,Fibra óptica,50254,204541
+San Juan,Fibra óptica,12328,103399
+San Luis,Fibra óptica,248,122070
+Santa Cruz Arg,Fibra óptica,10815,49510
+Santa Fe,Fibra óptica,215189,887810
+Santiago Del Estero,Fibra óptica,13170,119032
+Tierra Del Fuego,Fibra óptica,403,53896
+Tucumán,Fibra óptica,162345,263117
+Buenos Aires,Wireless,126846,4721668
+Capital Federal,Wireless,5758,1547679
+Catamarca,Wireless,1329,70293
+Chaco,Wireless,8178,144146
+Chubut,Wireless,29784,165778
+Córdoba Arg,Wireless,61070,1038668
+Corrientes,Wireless,7256,144846
+Entre Ríos,Wireless,26098,268959
+Formosa Arg,Wireless,16935,68538
+Jujuy,Wireless,4033,118823
+La Pampa,Wireless,20216,116092
+La Rioja Arg,Wireless,6395,86864
+Mendoza,Wireless,27625,289523
+Misiones,Wireless,11074,182157
+Neuquén,Wireless,27482,163161
+Río Negro,Wireless,16760,160558
+Salta,Wireless,10082,204541
+San Juan,Wireless,21860,103399
+San Luis,Wireless,70614,122070
+Santa Cruz Arg,Wireless,3896,49510
+Santa Fe,Wireless,43079,887810
+Santiago Del Estero,Wireless,6618,119032
+Tierra Del Fuego,Wireless,125,53896
+Tucumán,Wireless,3997,263117
