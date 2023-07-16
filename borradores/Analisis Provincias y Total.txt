@@ -1,0 +1,68 @@
+TOTAL: Cable modem desarrollandose y siendo la tecnologia con mas accesos. Sigue fibra optica también desarrollandose y luego ADSL en decrecimiento.
+
+---
+
+CAPITAL FEDERAL: Casi exclusivamente Cablemodem (debe ser por ser una ciudad grande. Y entiendo que Buenos Aires debe ser similar debido a que la mitad es Gran Buenos Aires que también es una gran urbanización
+
+---
+
+BUENOS AIRES: Idem total
+
+SANTA FE: Buen desarrollo los últimos años de Fibra (2). Todavía sigue bastante mas arriba Cablemodem aunqe el crecimiento es mas acelerado en Fibra. Ver composición demográfica.
+
+CHACO: Idem Total
+
+CORDOBA: Idem Total
+
+JUJUY: Idem Total
+
+SALTA: Idem Total
+
+LA RIOJA: Similar a Total, con Fibra queriendo arrancar pero aun le falta bastante en relación al Cablemodem
+
+MISIONES: Similar al total, pero con fibra recién superando a ADSL
+
+---
+
+TIERRA DEL FUEGO: 1F 2A. Practicamente nada de Fibra Optica VER!!!!
+---
+
+TUCUMAN: Mucha Fibra Optica y luego ADSL en caida. Parecería que falta desarrollar Cablemodem
+
+CATAMARCA: Muy bien Fibra, pero parecería que Cablemodem esta falto de desarrollo. Habría que analizar las características demográficas
+
+---
+SANTA CRUZ: En el 2020 comenzó a desarrollarse mucho Fibra
+
+CHUBUT: 1 Cablemodem, 2 ADSL, 3 W. Debe ser por su baja densidad y gran superficie que se desarrolló mucho WIreless y que falta desarrollar Fibra Optica
+
+SANTIAGO DEL ESTERO: Casi todo Cablemodem, muy poco desarrollo de Fibra (3), arrancando el último año
+
+FORMOSA: 1 Cablemodem, 2 Wireless, 3 ADSL y 4 FIbra. También se aprecia que como en Chubut hay mucho desarrollo relativo de Wireless y la Fibra relegada (pero en crecimiento). Hay que ver el terreno de Selva para la obra de Fibra. No se la densidad si es tan baja como en Chubut, pero debe estár distribuido
+
+NEUQUEN: CableModem mucho mas desarrollada que el resto. Fibra recien empezando a emparejar los otros accesos. Wireless bastante desarrollado en relación al resto, comparado con otras provincias.
+
+LA PAMPA: 1 Cablemodem, supongo por la distribucion demografica, que casi todos están en Santa Rosa. Despues mucho desarrollo de Wireless por si baja densidad fuera de Santa Rosa y Pico, y Fibra 2 pero no tan desarrollada
+---
+
+CORRIENTES: 1 Fibra y 2 ADSL. Parecería que falta desarrollar mucho Fibra, que recién está arrancando
+
+ENTRE RIOS: Idem Corrientes
+
+---
+
+MENDOZA: Muy buen desarrollo de Fibra el útimo tiempo
+
+---
+
+SAN LUIS: Muy particular. Casi sin Fibra y mayormente por Wireless
+
+---
+
+RIO NEGRO: Lo particular es como hasta hace un par de años ADSL era el de mas accesos. Recién este último año empezó a tener las relaciones similares al Total
+
+SAN JUAN: Aun sigue mayormente con ADSL. Fibra muy poco, Wireless mucho
+
+
+
+
