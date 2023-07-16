@@ -22,11 +22,11 @@
 Una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento del sector de Acceso a Internet fija en Argentina.
 
 
-`EDA` (Exploratory Data Analysis)
+[`EDA`](https://github.com/aseba10/Proyecto-Individual-N-2-Henry/blob/main/EDA.ipynb) (Exploratory Data Analysis)
 
 Se realizó un Analisis Exploratorio de los datos donde se pudo observar el desarrollo de las distintas tecnologías de acceso a Internet en cada provincia y como impactó en la velocidad y penetración.
 
-`Dashboard`
+[`Dashboard`](https://lookerstudio.google.com/s/mCAmiFIDdTQ)
 
 Se realizó un dashboard en Looker Studio con filtros por provincia y tipo de tecnología donde se incluyen 3 `KPIs` correspondientes al porcentaje de accesos a internet por vivienda y por habitante y el porcentaje de cada tipo de tecnología en el total de accesos.
 
